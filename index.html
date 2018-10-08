@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+</head>
+<body>
+		<input type="date" name="calendar">
+		<p id="txt">Какоa dsf asdfa sdfs екст</p>
+		<div class="right-container">
+				<div class=></div>
+				<div class="to_proof">
+				<b class="b_right"><i class="i_right"></i></b>
+						<h3 class="h3_right">СТОИМОСТЬ УСЛУГИ</h3>
+				<div class="price ">
+		<span id="insert_text"></span>  <i class="fa fa-rub" aria-hidden="true"></i> 
+		</div>
+		</div>
+		</div>
+<div>
+	<input type="checkbox" name="checkItems" id="check">
+</div>
+<p>Новое изменение файла index.html</p>
+		<script>
+			
+				jQuery(document).ready (function () {
+					if (jQuery("#text").length > 0) {
+					var cloneText = jQuery("#text").clone ().text();
+					jQuery("<span>" + cloneText + "</span>").appendTo(jQuery("#insert_text"));
+					} else {
+						jQuery("<span>В зависимости от дисциплины</span>").appendTo(jQuery("#insert_text"));
+					}
+				});
+				</script>
+
+
+</body>
+</html>
