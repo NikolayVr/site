@@ -1,0 +1,47 @@
+* [33mcommit f547e3269270e096488e5d217028487f34bad504[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Nikolay Kocherga <VergilRcWork@yandex.ru>
+[31m|[m Date:   Mon Oct 8 14:29:03 2018 +0300
+[31m|[m 
+[31m|[m     set 2 body
+[31m|[m 
+* [33mcommit 6defd9865e6a841dab4695e191b3eed8c37b3586[m
+[31m|[m Author: Nikolay Kocherga <VergilRcWork@yandex.ru>
+[31m|[m Date:   Mon Oct 8 14:27:59 2018 +0300
+[31m|[m 
+[31m|[m     set p color
+[31m|[m   
+[31m|[m * [33mcommit 4d688c28f36bf6a050191a2c13c90f6db4697b17[m[33m ([m[1;32mnew_style[m[33m)[m
+[31m|[m[31m/[m  Author: Nikolay Kocherga <VergilRcWork@yandex.ru>
+[31m|[m   Date:   Mon Oct 8 14:25:41 2018 +0300
+[31m|[m   
+[31m|[m       green bg and fz80 h1
+[31m|[m 
+* [33mcommit a1ee9219281d4d25cf0b95fff665b331fe963c54[m
+[32m|[m Author: Nikolay Kocherga <VergilRcWork@yandex.ru>
+[32m|[m Date:   Mon Oct 8 14:20:15 2018 +0300
+[32m|[m 
+[32m|[m     add styles
+[32m|[m 
+* [33mcommit 469600364fedad7c8cff0ce11a6e5c50dcc38734[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[32m|[m Author: Nikolay Kocherga <VergilRcWork@yandex.ru>
+[32m|[m Date:   Mon Oct 8 13:31:02 2018 +0300
+[32m|[m 
+[32m|[m     forth commit
+[32m|[m 
+* [33mcommit dae65269d6c3093a0b165bf4be7a4c57babf7318[m
+[32m|[m Author: Nikolay Kocherga <VergilRcWork@yandex.ru>
+[32m|[m Date:   Mon Oct 8 13:30:09 2018 +0300
+[32m|[m 
+[32m|[m     third commit
+[32m|[m 
+* [33mcommit 74bb5b0ba4fccd9070c2b27aca7d4406130ebd4f[m
+[32m|[m Author: Nikolay Kocherga <VergilRcWork@yandex.ru>
+[32m|[m Date:   Mon Oct 8 13:28:50 2018 +0300
+[32m|[m 
+[32m|[m     second commit
+[32m|[m 
+* [33mcommit 1e4ecdaa1ec5bed3af5b7f032ec7facd603f3632[m
+  Author: Nikolay Kocherga <VergilRcWork@yandex.ru>
+  Date:   Mon Oct 8 13:22:05 2018 +0300
+  
+      first commit

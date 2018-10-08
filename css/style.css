@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
 	background-color: #c6d2ea;
 	width: 900px;
 	margin: 0 auto;
@@ -10,4 +11,10 @@ h1 {
 
 body p {
 	color: #fff;
+=======
+	background-color: green;
+}
+h1 {
+	font-size: 80px;
+>>>>>>> new_style
 }
